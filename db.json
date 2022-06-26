@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode",
+      "post": "test post for display",
+      "likes": 8,
+      "time": ""
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profiles": [{
+    "id":1,
+    "fname": "typicode",
+    "lname": "typicode",
+    "email": "typicode@email.com",
+    "password": "xxx11133344",
+    "about":"a person of no interest"
+  }],
+  "messages": [
+    {}
+  ]
+}
